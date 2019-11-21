@@ -1,6 +1,10 @@
 /* CSS Document*/
 
 
+header {
+      background:white;
+      margin-top:-25px
+}
 
 h1{
       font-family:
@@ -20,11 +24,15 @@ ul {
 
  ul{
        float:right;
-       padding: 20px;
-       margin-right: 20%
+       padding: 0px;
+       margin-right: 20%;
+       margin-top: -5%
+      
+      }
 
-       
- }
+#body_wrap {
+      width: 960x;
+      
 }
 
 
