@@ -5,13 +5,36 @@
 h1{
       font-family:
 Georgia, 'Times New Roman', 'Times', 'serif';
+
+background-color:#4aaaa5;
+width: 15%;
+padding:20px; 
+margin-left:50px;
+
 }
+ul {  
+ 
+ list-style-type:none;}
+
+ ul li { display: inline; padding:10px;}
+
+ ul{
+       float:right;
+       padding: 20px;
+       margin-right: 20%
+
+       
+ }
+}
+
+
+
+        
 
 h2{ 
       font-family: Georgia, 'Times New Roman', 'Times', 'serif' ;
+
 }
-
-
 
 body{
  
@@ -19,4 +42,7 @@ body{
       background-repeat:no-repeat;
       background-size:cover;
       font-family: 'arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+      color: #777777 
+      
 }
+
