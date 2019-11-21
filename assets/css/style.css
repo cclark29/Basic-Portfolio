@@ -1,9 +1,22 @@
 /* CSS Document*/
 
 
+
+h1{
+      font-family:
+Georgia, 'Times New Roman', 'Times', 'serif';
+}
+
+h2{ 
+      font-family: Georgia, 'Times New Roman', 'Times', 'serif' ;
+}
+
+
+
 body{
  
       background-image: url("../images/45degreee_fabric.png");
       background-repeat:no-repeat;
       background-size:cover;
+      font-family: 'arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
 }
