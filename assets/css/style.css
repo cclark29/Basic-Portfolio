@@ -3,7 +3,8 @@
 
 header {
       background:white;
-      margin-top:-25px
+      margin-top:-25px;
+      color:white
 }
 
 h1{
@@ -14,8 +15,13 @@ background-color:#4aaaa5;
 width: 15%;
 padding:20px; 
 margin-left:50px;
+]
 
+h2{
+      color:#4aaaa5
 }
+
+
 ul {  
  
  list-style-type:none;}
@@ -26,7 +32,8 @@ ul {
        float:right;
        padding: 0px;
        margin-right: 20%;
-       margin-top: -5%
+       margin-top: -5%;
+      
       
       }
 
@@ -54,4 +61,4 @@ body{
       
 }
 
-
+/*trying to add the white box/*
