@@ -24,9 +24,14 @@ h2{
 
 ul {  
  
- list-style-type:none;}
+ list-style-type:none;
+ 
+ 
 
- ul li { display: inline; padding:10px;}
+}
+
+ ul li { display: inline; 
+        padding:10px;}
 
  ul{
        float:right;
@@ -36,6 +41,11 @@ ul {
       
       
       }
+      a{
+            color:#777777;
+      }
+
+     
 
 #body_wrap {
       width: 960x;
