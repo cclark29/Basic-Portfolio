@@ -7,6 +7,7 @@ header {
       color:white
 }
 
+
 h1{
       font-family:
 Georgia, 'Times New Roman', 'Times', 'serif';
@@ -49,7 +50,7 @@ ul {
 
 
 
-S
+
 
         
 
@@ -67,6 +68,7 @@ body{
       color: #777777 
       
 }
+/* backgrounds*/
 
 .box-container {
       width: 960px;
@@ -93,7 +95,7 @@ body{
       margin-bottom: 10px;
 
     }  
-      S
+      
 
 
 .sub-box{
@@ -142,31 +144,105 @@ body{
 
 /* flot for pictures */
 
-#pic-box {
+#pic-box1{
       float:left;
-      clear:both;
-      margin-left:40px
+      clear: both;
+      margin-left:20px;
+   
 }
-#pic-box2{
-      float:right;
-      margin-right:20%;
+.text-wrapper{
+      position: absolute;
+      background-color: #4aaaa5;
+      color: white;
+      margin-top: 10%;
+      height: 30px;
+      padding: 5px;
+      width: 240px;
+      font:center;
+      text-align: center;
+      
 }
 
+ 
+#pic-box2{
+      float:left;  
+      margin-left:20px;
+      
+
+}
+.text-wrapper2{
+      position: absolute;
+      background-color: #4aaaa5;
+      color: white;
+      margin-top: 10%;
+      height: 30px;
+      padding: 5px;
+      width: 240px;
+      font:center;
+      text-align: center;
+      
+}
 
 #pic-box3{
-      float:left;
-      clear:both;
-      margin-left:40px;
+      float:left;  
+      clear: both;
+      margin-left:20px;
 
+}
+.text-wrapper3{
+      position: absolute;
+      background-color: #4aaaa5;
+      color: white;
+      margin-top: 10%;
+      height: 30px;
+      padding: 5px;
+      width: 240px;
+      font:center;
+      text-align: center;
+      
 }
 #pic-box4{
-      float:right;
-      margin-right:20%;
+      float:left; 
+      margin-left:20px; 
+      
 
 }
-#pic-box5{
-      margin-left:40px;
+.text-wrapper4{
+      position: absolute;
+      background-color: #4aaaa5;
+      color: white;
+      margin-top: 10%;
+      height: 30px;
+      padding: 5px;
+      width: 240px;
+      font:center;
+      text-align: center;
+      
 }
+
+#pic-box5{
+      float:left;  
+      clear: both;
+      margin-left:20px;
+
+}
+.text-wrapper5{
+      position: absolute;
+      background-color: #4aaaa5;
+      color: white;
+      margin-top: 10%;
+      height: 30px;
+      padding: 5px;
+      width: 240px;
+      font:center;
+      text-align: center;
+      
+}
+
+
+
+
+
 
 
 
