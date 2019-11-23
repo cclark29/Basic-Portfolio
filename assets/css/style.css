@@ -19,12 +19,17 @@ Georgia, 'Times New Roman', 'Times', 'serif';
 background-color:#4aaaa5;
 width: 15%;
 padding:20px; 
-margin-left:140px;
+margin-left:170px;
 }
 
-h2{
-      color:#4aaaa5
+h2{ 
+      font-family: Georgia, 'Times New Roman', 'Times', 'serif' ;
+      color:#4aaaa5;
+      margin-left:28px
+
 }
+
+
 
 
 ul {  
@@ -46,6 +51,7 @@ ul {
       
       
       }
+
       a{
             color:#777777;
       }
@@ -58,10 +64,7 @@ ul {
 
         
 
-h2{ 
-      font-family: Georgia, 'Times New Roman', 'Times', 'serif' ;
 
-}
 
 body{
  
@@ -106,6 +109,7 @@ body{
       clear:both;
       margin-right: 10px;
       margin-bottom: 10px;
+      margin-left: 25px
 
     }  
       
@@ -155,7 +159,7 @@ body{
 
 }
 
-/* flot for pictures */
+/* Layout for pictures */
 
 #pic-box1{
       float:left;
@@ -167,12 +171,13 @@ body{
       position: absolute;
       background-color: #4aaaa5;
       color: white;
-      margin-top: 10%;
+      margin-top: 12%;
       height: 30px;
       padding: 5px;
       width: 240px;
-      font:center;
+      font: center;
       text-align: center;
+      margin-left: 2%;
       
 }
 
@@ -180,21 +185,20 @@ body{
 #pic-box2{
       float:left;  
       margin-left:20px;
-      
+}    
 
-}
-.text-wrapper2{
-      position: absolute;
-      background-color: #4aaaa5;
-      color: white;
-      margin-top: 10%;
-      height: 30px;
-      padding: 5px;
-      width: 240px;
-      font:center;
-      text-align: center;
-      
-}
+.text-wrapper2 {
+            position: absolute;
+            background-color: #4aaaa5;
+            color: white;
+            margin-top: 12%;
+            height: 30px;
+            padding: 5px;
+            width: 240px;
+            font: center;
+            text-align: center;
+            margin-left: 2%;
+      }
 
 #pic-box3{
       float:left;  
@@ -204,14 +208,15 @@ body{
 }
 .text-wrapper3{
       position: absolute;
-      background-color: #4aaaa5;
-      color: white;
-      margin-top: 10%;
-      height: 30px;
-      padding: 5px;
-      width: 240px;
-      font:center;
-      text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    margin-top: 12%;
+    height: 30px;
+    padding: 5px;
+    width: 240px;
+    font: center;
+    text-align: center;
+    margin-left: 2%;
       
 }
 #pic-box4{
@@ -224,12 +229,13 @@ body{
       position: absolute;
       background-color: #4aaaa5;
       color: white;
-      margin-top: 10%;
+      margin-top: 12%;
       height: 30px;
       padding: 5px;
       width: 240px;
-      font:center;
+      font: center;
       text-align: center;
+      margin-left: 2%;
       
 }
 
