@@ -76,6 +76,15 @@ body{
       background:white
 }
 
+.box-container2 {
+      width: 720px;
+      margin:auto;
+      height:700px;
+      background: white
+
+}
+
+
 
     img{
       float:left;
@@ -130,5 +139,35 @@ body{
       
 
 }
+
+/* flot for pictures */
+
+#pic-box {
+      float:left;
+      clear:both;
+      margin-left:40px
+}
+#pic-box2{
+      float:right;
+      margin-right:20%;
+}
+
+
+#pic-box3{
+      float:left;
+      clear:both;
+      margin-left:40px;
+
+}
+#pic-box4{
+      float:right;
+      margin-right:20%;
+
+}
+#pic-box5{
+      margin-left:40px;
+}
+
+
 
 /*trying to add the white box/*
