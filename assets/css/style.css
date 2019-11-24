@@ -34,16 +34,37 @@ h2{
 }
 
 /*gray lines acros page*/
+#topline1{
+      width: 900px;
+      height:3px;
+      background:#dddddd; 
+      margin-bottom:5px;
+      clear:both;
+      margin-left:20px;
+      padding-right:30px;
+}
 
 #topline2{
       width: 900px;
       height:3px;
       background:#dddddd; 
-      position:absolute;
+      position:abolute;
       clear:both;
-      margin-left:20px
-
 }
+      
+#topline3{
+      width: 900px;
+      height:3px;
+      background:#dddddd; 
+      margin-bottom:5px;
+      clear:both;
+      margin-left:20px;
+      padding-right:30px;
+}    
+      
+
+
+
 
 
 ul {  
