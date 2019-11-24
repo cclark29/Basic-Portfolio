@@ -8,7 +8,9 @@ padding: 0;
 header {
       background:white;
       margin-top:-25px;
-      color:white
+      color:white;
+     
+      
 }
 
 
@@ -25,11 +27,11 @@ margin-left:170px;
 h2{ 
       font-family: Georgia, 'Times New Roman', 'Times', 'serif' ;
       color:#4aaaa5;
-      margin-left:28px
+      margin-left:28px;
+
+
 
 }
-
-
 
 
 ul {  
@@ -72,7 +74,7 @@ body{
       background-repeat:no-repeat;
       background-size:cover;
       font-family: 'arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
-      color: #777777 
+      color: #777777 ;
       
 }
 /* backgrounds*/
@@ -82,14 +84,16 @@ body{
       margin:auto;
       height:400px;
       
-      background:white
+      background:white;
+      clear:both;
 }
 
 .box-container2 {
-      width: 720px;
+      width: 960px;
       margin:auto;
       height:700px;
-      background: white
+      background: white;
+      
 
 }
 
@@ -98,13 +102,14 @@ body{
       margin:auto;
       height:500px;
       background: white;
-      text-align: center;
+      text-align: left;
+      padding-top: 32px;
 
 }
 
 
 
-    img{
+ img{
       float:left;
       clear:both;
       margin-right: 10px;
@@ -112,45 +117,10 @@ body{
       margin-left: 25px
 
     }  
+
+
       
 
-
-.sub-box{
-      margin-right:150px;
-      margin-left:150px;
-}
-       
-.subline {
-      width: 960px;
-      margin:auto;
-      height:10px;
-      background:#4aaaa5; 
-      padding-bottom:10px;
-      margin-top:30px;
-
-
-}
-
-#bottom{
-      min-height: 0%;
-}
-
-#main{
-  overflow:auto;
-  padding-bottom:-20px;
-  height:10px;
-  margin-top:0px
-}
-
-
-#footer {
-      background-color:#777777;
-      height: 50px;
-      margin-bottom:auto;
-      clear:both;
-      color:black
-      
-}
 
 #ftext {
       margin-left: 45%;
@@ -185,7 +155,9 @@ body{
 #pic-box2{
       float:left;  
       margin-left:20px;
-}    
+    
+}     
+
 
 .text-wrapper2 {
             position: absolute;
@@ -222,6 +194,7 @@ body{
 #pic-box4{
       float:left; 
       margin-left:20px; 
+     
       
 
 }
@@ -240,8 +213,9 @@ body{
 }
 
 #pic-box5{
-      float:left;  
-      clear: both;
+      float:left; 
+      clear:both ;
+      
       margin-left:20px;
 
 }
@@ -249,15 +223,15 @@ body{
       position: absolute;
       background-color: #4aaaa5;
       color: white;
-      margin-top: 10%;
+      margin-top: 12%;
       height: 30px;
       padding: 5px;
       width: 240px;
-      font:center;
       text-align: center;
+      margin-left:2%
       
 }
-
+/*Picture layout Done*/
 
 /* Contact Form*/
 
@@ -270,5 +244,81 @@ form{
  input, text, textarea {
        width:800px;
        padding:10px;
+       margin-left:20px;
+       
 
  }
+
+label{
+      margin-left:20px
+}
+
+button{
+      background-color:#4aaaa5;
+      margin-left:20px;
+      color:white;
+      border-width:10px;
+      border-color:#4aaaa5;
+      border-bottom-width: 0px;
+      border-top-width: 0px;
+      border-left-width: 0px;
+      border-right-width: 0px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 40px;
+      padding-right: 40px;
+      width: 110px;
+      height: 50px;
+      margin-top: 10px;
+      
+      
+  }
+
+  /*Footer*/
+
+
+
+       
+.subline {
+      width: 100%;
+      margin:auto;
+      height:10px;
+      background:#4aaaa5; 
+     
+
+
+}
+  .subline2 {
+      
+    width: 100%;
+    height:10px;
+    background:#4aaaa5; 
+    position:absolute;
+    margin-left:-172px;
+    margin-top:25%;
+   
+
+}
+
+
+.subline3 {
+          
+    width: 100%;
+    margin:auto;
+    height:10px;
+    background:#4aaaa5; 
+    padding-bottom:10px;
+    margin-top:30px;
+
+}
+
+footer {
+      text-align:center;
+      background-color: #666666;
+      color: white;
+      padding: 20px
+
+}
+   
+           
+
