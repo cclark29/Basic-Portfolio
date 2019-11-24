@@ -33,6 +33,18 @@ h2{
 
 }
 
+/*gray lines acros page*/
+
+#topline2{
+      width: 900px;
+      height:3px;
+      background:#dddddd; 
+      position:absolute;
+      clear:both;
+      margin-left:20px
+
+}
+
 
 ul {  
  
@@ -142,13 +154,13 @@ body{
       position: absolute;
       background-color: #4aaaa5;
       color: white;
-      margin-top: 12%;
+      margin-top: 17%;
       height: 30px;
       padding: 5px;
       width: 240px;
       font: center;
       text-align: center;
-      margin-left: 2%;
+      margin-left: 2.8%;
       
 }
 
@@ -164,13 +176,13 @@ body{
             position: absolute;
             background-color: #4aaaa5;
             color: white;
-            margin-top: 12%;
+            margin-top: 17%;
             height: 30px;
             padding: 5px;
             width: 240px;
             font: center;
             text-align: center;
-            margin-left: 2%;
+            margin-left: 2.9%;
       }
 
 #pic-box3{
@@ -183,13 +195,13 @@ body{
       position: absolute;
     background-color: #4aaaa5;
     color: white;
-    margin-top: 12%;
+    margin-top: 17%;
     height: 30px;
     padding: 5px;
     width: 240px;
     font: center;
     text-align: center;
-    margin-left: 2%;
+    margin-left: 2.8%;
       
 }
 #pic-box4{
@@ -203,13 +215,13 @@ body{
       position: absolute;
       background-color: #4aaaa5;
       color: white;
-      margin-top: 12%;
+      margin-top: 17%;
       height: 30px;
       padding: 5px;
       width: 240px;
       font: center;
       text-align: center;
-      margin-left: 2%;
+      margin-left: 2.8%;
       
 }
 
@@ -224,12 +236,12 @@ body{
       position: absolute;
       background-color: #4aaaa5;
       color: white;
-      margin-top: 12%;
+      margin-top: 17%;
       height: 30px;
       padding: 5px;
       width: 240px;
       text-align: center;
-      margin-left:2%
+      margin-left:2.8%
       
 }
 /*Picture layout Done*/
@@ -286,7 +298,7 @@ button{
       margin:auto;
       height:10px;
       background:#4aaaa5; 
-      margin-top:7.5%;
+      margin-top:0%;
 
 
 }
@@ -296,8 +308,8 @@ button{
     height:10px;
     background:#4aaaa5; 
     position:absolute;
-    margin-left:-172px;
-    margin-top:22%;
+    margin-left:-192px;
+    margin-top:0%;
    
 
 }
@@ -309,8 +321,8 @@ button{
     margin:auto;
     height:10px;
     background:#4aaaa5; 
-    padding-bottom:10px;
-    margin-top:30px;
+    padding-bottom:2px;
+    margin-top:0%;
 
 }
 
