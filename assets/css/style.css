@@ -48,8 +48,10 @@ h2{
       width: 900px;
       height:3px;
       background:#dddddd; 
-      position:abolute;
+      margin-bottom:26px;
       clear:both;
+      margin-left:20px;
+      padding-right:30px;
 }
       
 #topline3{
@@ -175,13 +177,14 @@ body{
       position: absolute;
       background-color: #4aaaa5;
       color: white;
-      margin-top: 17%;
+      margin-top: 12%;
       height: 30px;
       padding: 5px;
       width: 240px;
       font: center;
       text-align: center;
-      margin-left: 2.8%;
+      margin-left: 2%;
+      clear:both
       
 }
 
@@ -197,13 +200,14 @@ body{
             position: absolute;
             background-color: #4aaaa5;
             color: white;
-            margin-top: 17%;
+            margin-top: 12%;
             height: 30px;
             padding: 5px;
             width: 240px;
             font: center;
             text-align: center;
-            margin-left: 2.9%;
+            margin-left: 2%;
+            clear:both
       }
 
 #pic-box3{
@@ -216,13 +220,14 @@ body{
       position: absolute;
     background-color: #4aaaa5;
     color: white;
-    margin-top: 17%;
+    margin-top: 12%;
     height: 30px;
     padding: 5px;
     width: 240px;
     font: center;
     text-align: center;
-    margin-left: 2.8%;
+    margin-left: 2%;
+    clear:both
       
 }
 #pic-box4{
@@ -236,13 +241,14 @@ body{
       position: absolute;
       background-color: #4aaaa5;
       color: white;
-      margin-top: 17%;
+      margin-top: 12%;
       height: 30px;
       padding: 5px;
       width: 240px;
       font: center;
       text-align: center;
-      margin-left: 2.8%;
+      margin-left: 2%;
+      clear:both;
       
 }
 
@@ -257,12 +263,13 @@ body{
       position: absolute;
       background-color: #4aaaa5;
       color: white;
-      margin-top: 17%;
+      margin-top: 12%;
       height: 30px;
       padding: 5px;
       width: 240px;
       text-align: center;
-      margin-left:2.8%
+      margin-left:2%;
+      clear:both;
       
 }
 /*Picture layout Done*/
@@ -329,7 +336,7 @@ button{
     height:10px;
     background:#4aaaa5; 
     position:absolute;
-    margin-left:-192px;
+    margin-left:3px;
     margin-top:0%;
    
 
@@ -353,7 +360,8 @@ footer {
       color: white;
       position: fixed;
       bottom:0;
-      width:100%
+      width:100%;
+      margin-left:0%
 
 }
    
