@@ -66,7 +66,7 @@ h2{
       
 
 
-
+/*Nav bar*/
 
 
 ul {  
@@ -120,7 +120,7 @@ body{
       margin:auto;
       height:400px;
       
-      background:white;
+ background:white;
       clear:both;
 }
 
@@ -129,6 +129,7 @@ body{
       margin:auto;
       height:700px;
       background: white;
+    
       
 
 }
@@ -230,13 +231,13 @@ body{
     clear:both
       
 }
+
 #pic-box4{
       float:left; 
       margin-left:20px; 
      
-      
-
 }
+
 .text-wrapper4{
       position: absolute;
       background-color: #4aaaa5;
